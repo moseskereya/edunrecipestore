@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+form{
+    margin: 4rem 0;
+}
+form input{
+    padding: 8px;
+}
+form button{
+    padding:8px 10px;
+    margin: 0 8px;
+}
+.main_container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.min_container{
+    margin: 1rem;
+}
